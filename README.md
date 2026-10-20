@@ -1,9 +1,11 @@
 <div align="center">
 
-# Furkan Farooqui
+# 👋 Hey, I'm Furkan Farooqui
+
+### Software Engineer &middot; AI Developer &middot; Systems Builder
 
 <a href="https://furkanfarooqui19.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=C4895A&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+AI+Developer;Low-latency+search+systems+%26+applied+AI;First-principles+engineering+%C2%B7+Full-stack+scale" alt="Furkan Farooqui — Software Engineer & AI Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=16&duration=3500&pause=1200&color=C4895A&center=true&vCenter=true&width=620&lines=Low-latency+search+systems+%26+applied+AI;First-principles+engineering+%C2%B7+Full-stack+scale;Building+intelligent+platforms+from+first+principles" alt="Furkan Farooqui — Software Engineer & AI Developer" />
 </a>
 
 <p>
@@ -17,7 +19,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/furkan-ahmed-farooqui-a65691290">
-  <img src="https://img.shields.io/badge/LinkedIn-C4895A?style=flat-square&labelColor=111110&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEtMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOT4yVjEwLjlINi40Nk03LjgzIDYuNDJjLS44OCAwLTEuNTkuNzEtMS41OSAxLjU5czcxIDEuNTkgMS41OSAxLjU5IDEuNTktLjcxIDEuNTktMS41OS0uNzEtMS41OS0xLjU5LTEuNTlaIi8%2BPC9zdmc%2B" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-C4895A?style=flat-square&labelColor=111110&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQ0lEQVR4nO3ZPUoDURSG4SOKnUbQVrDQHbgHBTNoKQp2lm7BRgIuxDXYGaMuxE7xh4BOKptXrkw15GbumMLvxvPCdGfu8DB%2FTGLmed6vAvaBATDi7xsBt0DRFnGJbr02Z0K9bgokXE7q9VMgJfp9pkCyyBwyY5Bn4BBYrbZj4JUMITsqj2ubErI8Zr5DhpBizHyXDCFvwAmwVm3hHnkhQ4hM5pBZgljCPgkzD9W7aB1YBJaAbeAceM8BEl6cuw3HXgGu1SGbjQe3n7kF4F4W0iZgA%2FiShwDzCTNXshDgDHiqRh%2BB0wmzR5IQ4KDN9zewpQq5iyw7iMx3VCHDyLLDyPycKmSqdes5JOQQc0g0h4QcYg6J5hC17D9BSvT7SIGEf0%2FVu0mBFOi31wipMD10u0hC1H5l74vcM2W4nJLPhOd5Vu8bSoiEJ4CHE4IAAAAASUVORK5CYII%3D" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/FurkanFarooqui19">
@@ -103,7 +105,7 @@ architecture_focus:
 
 ---
 
-### Engineering Telemetry & Activity
+### Activity & Contribution Telemetry
 
 <div align="center">
 
@@ -117,24 +119,11 @@ architecture_focus:
   <img src="https://img.shields.io/badge/Timezone-UTC_%2B05%3A30-C4895A?style=flat-square&labelColor=111110" alt="Timezone" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/FurkanFarooqui19?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=FurkanFarooqui19&show_icons=true&include_all_commits=true&count_private=true&card_width=495&bg_color=111110&title_color=c4895a&text_color=f4f2ed&icon_color=c4895a&border_color=222220&border_radius=4&custom_title=System%20Contributions%20%26%20Telemetry#gh-dark-mode-only" alt="GitHub Contributions & Telemetry" />
-    <img src="https://github-readme-stats.vercel.app/api?username=FurkanFarooqui19&show_icons=true&include_all_commits=true&count_private=true&card_width=495&bg_color=f4f2ed&title_color=c4895a&text_color=111110&icon_color=c4895a&border_color=e5e3dd&border_radius=4&custom_title=System%20Contributions%20%26%20Telemetry#gh-light-mode-only" alt="GitHub Contributions & Telemetry" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/FurkanFarooqui19">
-    <img src="https://streak-stats.demolab.com?user=FurkanFarooqui19&theme=dark&background=111110&ring=c4895a&fire=c4895a&currStreakNum=f4f2ed&sideNums=f4f2ed&currStreakLabel=c4895a&sideLabels=888580&dates=888580&border=222220&stroke=222220#gh-dark-mode-only" alt="GitHub Streak Stats" />
-    <img src="https://streak-stats.demolab.com?user=FurkanFarooqui19&theme=light&background=f4f2ed&ring=c4895a&fire=c4895a&currStreakNum=111110&sideNums=111110&currStreakLabel=c4895a&sideLabels=63615a&dates=63615a&border=e5e3dd&stroke=e5e3dd#gh-light-mode-only" alt="GitHub Streak Stats" />
-  </a>
-</p>
+<br />
 
-<p align="center">
-  <a href="https://github.com/FurkanFarooqui19?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanFarooqui19&layout=compact&card_width=495&langs_count=6&bg_color=111110&title_color=c4895a&text_color=f4f2ed&border_color=222220&border_radius=4&custom_title=Language%20Ecosystem%20Telemetry#gh-dark-mode-only" alt="Language Ecosystem Telemetry" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanFarooqui19&layout=compact&card_width=495&langs_count=6&bg_color=f4f2ed&title_color=c4895a&text_color=111110&border_color=e5e3dd&border_radius=4&custom_title=Language%20Ecosystem%20Telemetry#gh-light-mode-only" alt="Language Ecosystem Telemetry" />
-  </a>
-</p>
+<a href="https://github.com/FurkanFarooqui19">
+  <img src="https://ghchart.rshah.org/C4895A/FurkanFarooqui19" alt="Furkan Farooqui's GitHub Contribution Activity Graph" />
+</a>
 
 </div>
 
